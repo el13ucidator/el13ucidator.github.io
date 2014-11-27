@@ -1,0 +1,142 @@
+landingparty:~ michellesiao$ sudo gem install jekyll
+Fetching: fast-stemmer-1.0.2.gem (100%)
+Building native extensions.  This could take a while...
+Successfully installed fast-stemmer-1.0.2
+Fetching: classifier-reborn-2.0.2.gem (100%)
+Successfully installed classifier-reborn-2.0.2
+Fetching: ffi-1.9.6.gem (100%)
+Building native extensions.  This could take a while...
+Successfully installed ffi-1.9.6
+Fetching: rb-inotify-0.9.5.gem (100%)
+Successfully installed rb-inotify-0.9.5
+Fetching: rb-fsevent-0.9.4.gem (100%)
+Successfully installed rb-fsevent-0.9.4
+Fetching: hitimes-1.2.2.gem (100%)
+Building native extensions.  This could take a while...
+Successfully installed hitimes-1.2.2
+Fetching: timers-4.0.1.gem (100%)
+Successfully installed timers-4.0.1
+Fetching: celluloid-0.16.0.gem (100%)
+Successfully installed celluloid-0.16.0
+Fetching: listen-2.8.2.gem (100%)
+Successfully installed listen-2.8.2
+Fetching: jekyll-watch-1.1.2.gem (100%)
+Successfully installed jekyll-watch-1.1.2
+Fetching: sass-3.4.9.gem (100%)
+Successfully installed sass-3.4.9
+Fetching: jekyll-sass-converter-1.2.1.gem (100%)
+Successfully installed jekyll-sass-converter-1.2.1
+Fetching: coffee-script-source-1.8.0.gem (100%)
+Successfully installed coffee-script-source-1.8.0
+Fetching: execjs-2.2.2.gem (100%)
+Successfully installed execjs-2.2.2
+Fetching: coffee-script-2.3.0.gem (100%)
+Successfully installed coffee-script-2.3.0
+Fetching: jekyll-coffeescript-1.0.1.gem (100%)
+Successfully installed jekyll-coffeescript-1.0.1
+Fetching: jekyll-gist-1.1.0.gem (100%)
+Successfully installed jekyll-gist-1.1.0
+Fetching: jekyll-paginate-1.1.0.gem (100%)
+Successfully installed jekyll-paginate-1.1.0
+Fetching: blankslate-2.1.2.4.gem (100%)
+Successfully installed blankslate-2.1.2.4
+Fetching: parslet-1.5.0.gem (100%)
+Successfully installed parslet-1.5.0
+Fetching: toml-0.1.2.gem (100%)
+Successfully installed toml-0.1.2
+Fetching: redcarpet-3.2.1.gem (100%)
+Building native extensions.  This could take a while...
+Successfully installed redcarpet-3.2.1
+Fetching: yajl-ruby-1.1.0.gem (100%)
+Building native extensions.  This could take a while...
+Successfully installed yajl-ruby-1.1.0
+Fetching: posix-spawn-0.3.9.gem (100%)
+Building native extensions.  This could take a while...
+Successfully installed posix-spawn-0.3.9
+Fetching: pygments.rb-0.6.0.gem (100%)
+Successfully installed pygments.rb-0.6.0
+Fetching: colorator-0.1.gem (100%)
+Successfully installed colorator-0.1
+Fetching: safe_yaml-1.0.4.gem (100%)
+Successfully installed safe_yaml-1.0.4
+Fetching: mercenary-0.3.5.gem (100%)
+Successfully installed mercenary-0.3.5
+Fetching: kramdown-1.5.0.gem (100%)
+Successfully installed kramdown-1.5.0
+Fetching: liquid-2.6.1.gem (100%)
+Successfully installed liquid-2.6.1
+Fetching: jekyll-2.5.2.gem (100%)
+Successfully installed jekyll-2.5.2
+Parsing documentation for fast-stemmer-1.0.2
+unable to convert "\xCA" from ASCII-8BIT to UTF-8 for /Library/Ruby/Gems/2.0.0/extensions/universal-darwin-14/2.0.0/fast-stemmer-1.0.2/stemmer.bundle, skipping
+unable to convert "\xCA" from ASCII-8BIT to UTF-8 for lib/stemmer.bundle, skipping
+Installing ri documentation for fast-stemmer-1.0.2
+Parsing documentation for classifier-reborn-2.0.2
+Installing ri documentation for classifier-reborn-2.0.2
+Parsing documentation for ffi-1.9.6
+Installing ri documentation for ffi-1.9.6
+Parsing documentation for rb-inotify-0.9.5
+Installing ri documentation for rb-inotify-0.9.5
+Parsing documentation for rb-fsevent-0.9.4
+Installing ri documentation for rb-fsevent-0.9.4
+Parsing documentation for hitimes-1.2.2
+unable to convert "\xCA" from ASCII-8BIT to UTF-8 for /Library/Ruby/Gems/2.0.0/extensions/universal-darwin-14/2.0.0/hitimes-1.2.2/hitimes/2.0/hitimes.bundle, skipping
+unable to convert "\xCA" from ASCII-8BIT to UTF-8 for lib/hitimes/2.0/hitimes.bundle, skipping
+Installing ri documentation for hitimes-1.2.2
+Parsing documentation for timers-4.0.1
+Installing ri documentation for timers-4.0.1
+Parsing documentation for celluloid-0.16.0
+Installing ri documentation for celluloid-0.16.0
+Parsing documentation for listen-2.8.2
+Installing ri documentation for listen-2.8.2
+Parsing documentation for jekyll-watch-1.1.2
+Installing ri documentation for jekyll-watch-1.1.2
+Parsing documentation for sass-3.4.9
+Installing ri documentation for sass-3.4.9
+Parsing documentation for jekyll-sass-converter-1.2.1
+Installing ri documentation for jekyll-sass-converter-1.2.1
+Parsing documentation for coffee-script-source-1.8.0
+Installing ri documentation for coffee-script-source-1.8.0
+Parsing documentation for execjs-2.2.2
+Installing ri documentation for execjs-2.2.2
+Parsing documentation for coffee-script-2.3.0
+Installing ri documentation for coffee-script-2.3.0
+Parsing documentation for jekyll-coffeescript-1.0.1
+Installing ri documentation for jekyll-coffeescript-1.0.1
+Parsing documentation for jekyll-gist-1.1.0
+Installing ri documentation for jekyll-gist-1.1.0
+Parsing documentation for jekyll-paginate-1.1.0
+Installing ri documentation for jekyll-paginate-1.1.0
+Parsing documentation for blankslate-2.1.2.4
+Installing ri documentation for blankslate-2.1.2.4
+Parsing documentation for parslet-1.5.0
+Installing ri documentation for parslet-1.5.0
+Parsing documentation for toml-0.1.2
+Installing ri documentation for toml-0.1.2
+Parsing documentation for redcarpet-3.2.1
+unable to convert "\xCA" from ASCII-8BIT to UTF-8 for /Library/Ruby/Gems/2.0.0/extensions/universal-darwin-14/2.0.0/redcarpet-3.2.1/redcarpet.bundle, skipping
+unable to convert "\xCA" from ASCII-8BIT to UTF-8 for lib/redcarpet.bundle, skipping
+Installing ri documentation for redcarpet-3.2.1
+Parsing documentation for yajl-ruby-1.1.0
+unable to convert "\xCA" from ASCII-8BIT to UTF-8 for /Library/Ruby/Gems/2.0.0/extensions/universal-darwin-14/2.0.0/yajl-ruby-1.1.0/yajl/yajl.bundle, skipping
+unable to convert "\xCA" from ASCII-8BIT to UTF-8 for lib/yajl/yajl.bundle, skipping
+Installing ri documentation for yajl-ruby-1.1.0
+Parsing documentation for posix-spawn-0.3.9
+unable to convert "\xCA" from ASCII-8BIT to UTF-8 for /Library/Ruby/Gems/2.0.0/extensions/universal-darwin-14/2.0.0/posix-spawn-0.3.9/posix_spawn_ext.bundle, skipping
+unable to convert "\xCA" from ASCII-8BIT to UTF-8 for lib/posix_spawn_ext.bundle, skipping
+Installing ri documentation for posix-spawn-0.3.9
+Parsing documentation for pygments.rb-0.6.0
+Installing ri documentation for pygments.rb-0.6.0
+Parsing documentation for colorator-0.1
+Installing ri documentation for colorator-0.1
+Parsing documentation for safe_yaml-1.0.4
+Installing ri documentation for safe_yaml-1.0.4
+Parsing documentation for mercenary-0.3.5
+Installing ri documentation for mercenary-0.3.5
+Parsing documentation for kramdown-1.5.0
+Installing ri documentation for kramdown-1.5.0
+Parsing documentation for liquid-2.6.1
+Installing ri documentation for liquid-2.6.1
+Parsing documentation for jekyll-2.5.2
+Installing ri documentation for jekyll-2.5.2
+31 gems installed
