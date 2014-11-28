@@ -1,3 +1,0 @@
-build errors
- Deprecation: The 'pygments' configuration option has been renamed to 'highlighter'. Please update your config file accordingly. The allowed values are 'rouge', 'pygments' or null.
-       Deprecation: You're using the 'maruku' Markdown processor. Maruku support has been deprecated and will be removed in 3.0.0. We recommend you switch to Kramdown.
