@@ -6,7 +6,7 @@ require "jekyll"
 
 
 # Change your GitHub reponame eg. "kippt/jekyll-incorporated"
-GITHUB_REPONAME = ""
+GITHUB_REPONAME = "el13ucidator/el13ucidator.github.io"
 
 
 namespace :site do
