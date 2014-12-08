@@ -1,0 +1,52 @@
+url: https://el13ucidator.github.io
+baseurl: .
+
+# Site settings
+title: el13ucidator
+email: #
+description: mdphd student scribbles in the cyberdust
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 0047AB
+  secondary: E34234
+  secondary-dark: 191970
+
+# Team names, titles and social links
+people:
+- name: Kay Garland
+  pic: 1
+  position: Lead Designer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+    - title: linkedin
+      url: #
+    - title: google-plus
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket 
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 8 Terran Place
+  - line: Sagittarius, MW
+
+# Build settings
+markdown: kramdown
+permalink: pretty
