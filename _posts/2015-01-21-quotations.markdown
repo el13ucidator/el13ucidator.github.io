@@ -10,8 +10,7 @@ alt:
 project-date: 2015
 client: Start Bootstrap
 category: Quotations
-description:  
+description:  “I am fond of pigs,” he said. “Dogs look up to us. Cats look down on us. Pigs treat us as equals.” Winston Churchill
 
 ---
 
-“I am fond of pigs,” he said. “Dogs look up to us. Cats look down on us. Pigs treat us as equals.” Winston Churchill
