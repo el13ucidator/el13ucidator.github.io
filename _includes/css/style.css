@@ -206,7 +206,7 @@ a:focus {
 ################################################################# */
 
 #headerwrap {
-	background: url(../img/t-back.jpg) no-repeat center top;
+	background-color: {{ site.colors.primary }};
 	min-height: 550px;
 	padding-top: 100px;
 	padding-bottom: 0px;
