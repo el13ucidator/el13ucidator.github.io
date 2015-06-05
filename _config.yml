@@ -55,10 +55,10 @@ colors:  #in hex code if not noted else
   #  img: client01.png
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "el13ucidator. An aspiring physician and molecular biologist seeking to share ideas not discussed when pipetting, coding, etc.."
+about: "el13ucidator: a site where an aspiring physician and molecular biologist explores ideas not discussed when pipetting, coding, etc.."
 
 # Testimonial content. Shown on Home and About page. 
-testimonial:
-    message: "   "
-    author: 
-    position: 
+#testimonial:
+  #  message: "   "
+    # author: 
+    # position: 
