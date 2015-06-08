@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Under Construction"
-date: 2015
+date: 2015-06-08
 author: Admin
 categories:
 - blog
-img: 
-thumb: 
+img: header-bg.jpg
+thumb: header-bg.jpg
 ---
 
 
